@@ -1,0 +1,7 @@
+# ignore all input and output txt files generated as output of the prog
+
+*.txt
+
+# ignore all image(jpg) files generated as output of teh prog
+
+*.jpg
